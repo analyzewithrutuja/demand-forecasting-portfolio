@@ -1,0 +1,10 @@
+# Raw data (downloaded via each project's README instructions -- too large / not meant to be tracked)
+*.zip
+*.xlsx
+online_retail_combined.csv
+household_power_consumption.txt
+household_power.zip
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
